@@ -1,6 +1,6 @@
 // +build prod
 
-package config
+package gocontainer-config
 
 const (
 	HOST     = "1.1.1.1"

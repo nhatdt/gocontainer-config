@@ -1,6 +1,6 @@
 // +build dev
 
-package gocontainer-config
+package gocontainerConfig
 
 const (
 	HOST     = "0.0.0.0"
